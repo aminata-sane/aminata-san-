@@ -1,2 +1,2 @@
-# aminata-sané
-Mon dépôt personnel 
+# README.md
+Hi i'm Aminata 
